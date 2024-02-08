@@ -1,1 +1,1 @@
-hdate
+hdatecho "hello kali"
